@@ -1,0 +1,29 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Environment and config
+.env
+*.env
+
+# VS Code
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# Model/data artifacts
+*.npy
+*.pkl
+*.h5
